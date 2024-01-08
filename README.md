@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Laravel, Vue 3 + Pinia,**
 
-- 👨‍💻 All of my web projects are available at [https://efrank.me](https://efrank.me)
+- 👨‍💻 All of my web projects are available at [https://efrank.xyz](https://efrank.xyz)
 
-- 📫 How to reach me **me@efrank.me**
+- 📫 How to reach me **me@efrank.xyz**
 
-- 📄 Know about my experiences [https://efrank.me/resume](https://efrank.me/resume)
+- 📄 Know about my experiences [https://efrank.xyz/resume](https://efrank.xyz/resume)
 
 - 🥋 Fun fact **I practice martial arts too**
 
